@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Agriculture.iml" filepath="$PROJECT_DIR$/.idea/Agriculture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropDeal/Crop-service/Crop-service.iml" filepath="$PROJECT_DIR$/CropDeal/Crop-service/Crop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropDeal/eureka-server/Eureka-server.iml" filepath="$PROJECT_DIR$/CropDeal/eureka-server/Eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropDeal/Farmer-service/Farmer-service.iml" filepath="$PROJECT_DIR$/CropDeal/Farmer-service/Farmer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropDeal/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/CropDeal/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CropDeal/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/CropDeal/spring-security/spring-security.iml" />
+    </modules>
+  </component>
+</project>
