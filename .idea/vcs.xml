@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CropDeal/Crop-service" vcs="" />
-    <mapping directory="$PROJECT_DIR$/CropDeal/apigateway" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CropDeal/Crop-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CropDeal/apigateway" vcs="Git" />
   </component>
 </project>
